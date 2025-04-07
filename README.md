@@ -1,18 +1,20 @@
-# myportfolio
-Welcome to my analysis portfolio! This collection demonstrates my ability to solve real-world problems by applying advanced data analysis techniques using tools such as Ms.Excel, SQL, Tableau, Power BI, R, and Python. I utilize a systematic approach;data preparation, processing, analysis, visualization and then actionable insights.
-## ABOUT ME
 
- I'm Otieno Oyiengo 🤓, a data analyst and an Entrprise Risk Management  enthusiast. With experience in Enterprise Risk Management and ISO9001:2015 compliance.
+## ABOUT ME
+I'm *Otieno Oyiengo Kevin* 🤓, a data analyst and an Entrprise Risk Management  enthusiast.
+Welcome to my analysis portfolio! This collection demonstrates my ability to solve real-world problems by applying advanced data analysis techniques using tools such as Ms.Excel, SQL, Tableau, Power BI, R, and Python. I utilize a systematic approach;data preparation, processing, analysis, visualization and then actionable insights.
+
+ 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*The analytic component of my daily routine involves;
+*The analytic component of my daily routine involves*;
+
 •	Collecting and analyzing organizational risk and compliance data to identify trends and insights.  
 •	Managing and maintaining data systems, ensuring accuracy and integrity in reporting.  
 •	Assisting in automation and optimization of data analysis and visualization processes.  
-•	Developing dashboards and reports to enhance data-driven decision-making.*
+•	Developing dashboards and reports to enhance data-driven decision-making.
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
