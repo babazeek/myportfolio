@@ -10,7 +10,6 @@ Welcome to my analysis portfolio! This collection demonstrates my ability to sol
 ## WHAT I DO
 
 *The analytic component of my daily routine involves*;
-
 •	Collecting and analyzing organizational risk and compliance data to identify trends and insights.  
 •	Managing and maintaining data systems, ensuring accuracy and integrity in reporting.  
 •	Assisting in automation and optimization of data analysis and visualization processes.  
@@ -59,10 +58,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     <tr>
       <td>📧</td>
       <td><a href="mailto:otienoyiengo@gmail.com">otienoyiengo@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td></td>
     </tr>
     <tr>
       <td>🌐</td>
