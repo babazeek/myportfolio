@@ -70,12 +70,13 @@
     }
   </style>
 
-  -->
+  
 </head>
 <body>
 
   <div class="section">
     <h2>ABOUT ME</h2>
+    -->
     <p>I'm <em>Otieno Oyiengo Kevin</em> 🤓, a data analyst and an Enterprise Risk Management enthusiast. Welcome to my analysis portfolio! This collection demonstrates my ability to solve real-world problems by applying advanced data analysis techniques using tools such as Ms.Excel, SQL, Tableau, Power BI, R, and Python. I utilize a systematic approach: data preparation, processing, analysis, visualization and then actionable insights.</p>
   </div>
 
