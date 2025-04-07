@@ -92,9 +92,9 @@
   <div class="section">
     <h2>MY PORTFOLIO</h2>
     <p><em>A glimpse of some of the projects I've been working on.</em></p>
-    <h3>Data cleaning in SQL to facilitate the  creation of a dashboard on Ms.Excel to track the pizza sales metrics to help in decision making. I Imported data in MS SQL Server Data Base, created a Data Base, wrote  the queries then exported the data to Excel. The highlights were requirement gathering, data cleaning, processing, analysis and dashboard creation in Excel.</h3>
+    <h3>Data cleaning in SQL to facilitate the  creation of a dashboard on Ms.Excel to track the pizza sales metrics to help in decision making. .</h3>
     <img src="Screenshot (17).png" alt="sample dashboard">
-    <p>The sinking of the Titanic is one of the most infamous shipwrecks in history.</p>
+    <p>I Imported data in MS SQL Server Data Base, created a Data Base, wrote  the queries then exported the data to Excel. The highlights were requirement gathering, data cleaning, processing, analysis and the dashboard creation in Excel.</p>
     <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">Read More</a></p>
     <h3>Sales Analytics Project</h3>
     <img src="2 anietie etuk data analytics sales project.jpg" alt="Sales Project">
