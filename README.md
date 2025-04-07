@@ -1,67 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Otieno Oyiengo Kevin - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px auto;
+      max-width: 900px;
+      padding: 0 20px;
+      color: #2c3e50;
+    }
 
-## ABOUT ME
-I'm *Otieno Oyiengo Kevin* 🤓, a data analyst and an Entrprise Risk Management  enthusiast.
-Welcome to my analysis portfolio! This collection demonstrates my ability to solve real-world problems by applying advanced data analysis techniques using tools such as Ms.Excel, SQL, Tableau, Power BI, R, and Python. I utilize a systematic approach;data preparation, processing, analysis, visualization and then actionable insights.
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
 
- 
+    h3 {
+      margin-top: 25px;
+      color: #34495e;
+    }
 
+    p, li {
+      text-align: justify;
+      font-size: 16px;
+    }
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+    .section {
+      margin-bottom: 40px;
+    }
 
-*The analytic component of my daily routine involves*;
-•	Collecting and analyzing organizational risk and compliance data to identify trends and insights.  
-•	Managing and maintaining data systems, ensuring accuracy and integrity in reporting.  
-•	Assisting in automation and optimization of data analysis and visualization processes.  
-•	Developing dashboards and reports to enhance data-driven decision-making.
+    ul {
+      list-style-type: disc;
+      padding-left: 30px;
+      margin-top: 10px;
+    }
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+    li {
+      margin-bottom: 8px;
+    }
 
+    img {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+      margin-top: 10px;
+      border-radius: 6px;
+    }
 
+    table {
+      margin-top: 10px;
+    }
 
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+    td {
+      padding: 4px 8px;
+      vertical-align: top;
+    }
 
-*A glimpse of some of the projects I've been working on.*
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+  <div class="section">
+    <h2>ABOUT ME</h2>
+    <p>I'm <em>Otieno Oyiengo Kevin</em> 🤓, a data analyst and an Enterprise Risk Management enthusiast. Welcome to my analysis portfolio! This collection demonstrates my ability to solve real-world problems by applying advanced data analysis techniques using tools such as Ms.Excel, SQL, Tableau, Power BI, R, and Python. I utilize a systematic approach: data preparation, processing, analysis, visualization and then actionable insights.</p>
+  </div>
 
+  <div class="section">
+    <h2>WHAT I DO</h2>
+    <p><em>The analytic component of my daily routine involves:</em></p>
+    <ul>
+      <li>Collecting and analyzing organizational risk and compliance data to identify trends and insights.</li>
+      <li>Managing and maintaining data systems, ensuring accuracy and integrity in reporting.</li>
+      <li>Assisting in automation and optimization of data analysis and visualization processes.</li>
+      <li>Developing dashboards and reports to enhance data-driven decision-making.</li>
+    </ul>
+    <p><strong>✅ Data Analytics Consulting:</strong> I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.</p>
+  </div>
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+  <div class="section">
+    <h2>MY PORTFOLIO</h2>
+    <p><em>A glimpse of some of the projects I've been working on.</em></p>
+    <h3>Predictive Modeling and Hypothesis Testing using Titanic Dataset</h3>
+    <img src="1 anietie etuk data analytics car project.jpeg" alt="Car Analytics Project">
+    <p>The sinking of the Titanic is one of the most infamous shipwrecks in history.</p>
+    <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">Read More</a></p>
+    <h3>Sales Analytics Project</h3>
+    <img src="2 anietie etuk data analytics sales project.jpg" alt="Sales Project">
+    <p>On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.</p>
+    <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">Read More</a></p>
+    <h3>Agricultural Analytics Project</h3>
+    <img src="3 anietie etuk data analytics agro project.jpg" alt="Agro Analytics Project">
+    <p>Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.</p>
+    <p><a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a></p>
+  </div>
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+  <div class="section">
+    <h2>CONTACT DETAILS</h2>
+    <p><em>Let’s connect and see how we can make a difference together!</em></p>
+    <table>
+      <tr>
+        <td>📧</td>
+        <td><a href="mailto:otienoyiengo@gmail.com">otienoyiengo@gmail.com</a></td>
+      </tr>
+      <tr>
+        <td>🌐</td>
+        <td><a href="https://www.linkedin.com/in/otieno-oyiengo-b68924117/">LinkedIn</a></td>
+      </tr>
+    </table>
+  </div>
 
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
-
-## CONTACT DETAILS
-
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:otienoyiengo@gmail.com">otienoyiengo@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/otieno-oyiengo-b68924117/"> LinkedIn</a></td>
-    </tr>
-  </tbody>
-</table>
+</body>
+</html>
