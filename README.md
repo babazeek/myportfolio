@@ -92,7 +92,7 @@
   <div class="section">
     <h2>MY PORTFOLIO</h2>
     <p><em>A glimpse of some of the projects I've been working on.</em></p>
-    <h3>Predictive Modeling and Hypothesis Testing using Titanic Dataset</h3>
+    <h3>Data cleaning in SQL to facilitate the  creation of a dashboard on Ms.Excel to track the pizza sales metrics to help in decision making</h3>
     <img src="1 anietie etuk data analytics car project.jpeg" alt="Car Analytics Project">
     <p>The sinking of the Titanic is one of the most infamous shipwrecks in history.</p>
     <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">Read More</a></p>
