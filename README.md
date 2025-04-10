@@ -102,7 +102,8 @@
     <h3> a)Data cleaning in SQL to facilitate the  creation of a dashboard on Ms.Excel to track the pizza sales metrics and assist in decision making. .</h3>
     <img src="Screenshot (17).png" alt="sample dashboard">
     <p>I Imported data in MS SQL Server Data Base, created a Data Base, wrote  the queries then exported the data to Excel. The highlights were requirement gathering, data cleaning, processing, analysis and the dashboard creation in Excel.</p>
-    <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">Read More</a></p>
+    <p><a href="https://github.com/babazeek/sales_dashboard">Read More</a></p>
+    
     <h3>Sales Analytics Project</h3>
     <img src="2 anietie etuk data analytics sales project.jpg" alt="Sales Project">
     <p>On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.</p>
