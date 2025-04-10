@@ -106,14 +106,18 @@
     <!---
     <h3>Sales Analytics Project</h3>
     <img src="2 anietie etuk data analytics sales project.jpg" alt="Sales Project">
-    <p>On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.</p>
-    <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">Read More</a></p>
+    <p>On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after 
+     colliding with an iceberg.</p>
+    <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset- 
+    anietie/">Read More</a></p>
     <h3>Agricultural Analytics Project</h3>
     <img src="3 anietie etuk data analytics agro project.jpg" alt="Agro Analytics Project">
-    <p>Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.</p>
-    <p><a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a></p>
-  </div>
--->
+    <p>Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 
+     2224 passengers and crew.</p>
+    <p><a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a> 
+     </p>
+    </div>
+     -->
   <div class="section">
     <h2>CONTACT DETAILS</h2>
     <p><em>Let’s connect and see how we can make a difference together!</em></p>
