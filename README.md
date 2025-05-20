@@ -105,6 +105,7 @@
     <p><a href="https://github.com/babazeek/sales_dashboard">Read More</a></p>
     <h3> b)Data cleaning in SQL to facilitate the  creation of a dashboard on Ms. Power BI.</h3>
     <p>In this project, I began by importing and exploring the Blinkit grocery dataset to understand its structure and check for inconsistencies. I then cleaned the data by standardizing entries in the ‘Item_Fat_Content’ column to ensure uniformity for accurate grouping and analysis. Once the data was clean, I computed key performance metrics such as total sales, average sales, number of items, and average ratings. I further broke down the data by categories like fat content, item type, outlet size, location, and establishment year to uncover deeper insights. The final result was a well-structured dataset ready for visualization in Power BI, enabling the creation of dashboards that display business-critical metrics.</p>    
+      <p><a href="https://github.com/babazeek/sql">Check it out</a></p>
     <!---
     <h3>Sales Analytics Project</h3>
     <img src="2 anietie etuk data analytics sales project.jpg" alt="Sales Project">
