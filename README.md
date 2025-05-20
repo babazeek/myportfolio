@@ -103,7 +103,7 @@
     <img src="Screenshot (17).png" alt="sample dashboard">
     <p>I Imported data in MS SQL Server Data Base, created a Data Base, wrote  the queries then exported the data to Excel. The highlights were requirement gathering, data cleaning, processing, analysis and the dashboard creation in Excel.</p>
     <p><a href="https://github.com/babazeek/sales_dashboard">Read More</a></p>
-    <h3> a)Data cleaning in SQL to facilitate the  creation of a dashboard on Ms. Power BI.</h3>
+    <h3> b)Data cleaning in SQL to facilitate the  creation of a dashboard on Ms. Power BI.</h3>
     <p>In this project, I began by importing and exploring the Blinkit grocery dataset to understand its structure and check for inconsistencies. I then cleaned the data by standardizing entries in the ‘Item_Fat_Content’ column to ensure uniformity for accurate grouping and analysis. Once the data was clean, I computed key performance metrics such as total sales, average sales, number of items, and average ratings. I further broke down the data by categories like fat content, item type, outlet size, location, and establishment year to uncover deeper insights. The final result was a well-structured dataset ready for visualization in Power BI, enabling the creation of dashboards that display business-critical metrics.</p>    
     <!---
     <h3>Sales Analytics Project</h3>
